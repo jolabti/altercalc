@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EMobCalc</string>
+    <string name="write_calculation_here">Write calculation here</string>
+</resources>
